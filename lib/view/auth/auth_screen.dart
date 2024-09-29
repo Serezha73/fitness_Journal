@@ -1,7 +1,6 @@
 import 'package:fitness_journal/features/click_button.dart';
 import 'package:fitness_journal/features/text_field_form.dart';
 import 'package:fitness_journal/features/theme/colors_extemsion.dart';
-
 // import 'package:fitness_journal/service/firebase_service.dart';
 import 'package:flutter/material.dart';
 
