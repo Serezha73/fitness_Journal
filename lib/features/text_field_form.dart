@@ -4,10 +4,8 @@ import 'package:flutter/material.dart';
 
 class TextFieldFormWidget extends StatefulWidget {
   final TextEditingController? controller;
-
   final TextInputType? keyboardType;
   final String hintText;
-
   final String icon;
   final EdgeInsets? margin;
   final bool obscureText;
